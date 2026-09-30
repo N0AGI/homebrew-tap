@@ -7,7 +7,7 @@ cask "termkick" do
   desc "SSH client and local terminal with tabs, split panes and snippets"
   homepage "https://products.n0agi.com/termkick/"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "termkick.app"
 
