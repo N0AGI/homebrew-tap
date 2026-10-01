@@ -1,6 +1,6 @@
 cask "termkick" do
-  version "09302026.07.47.1"
-  sha256 "bcbdbc8f46cd8a643677b87e5cfba2b9455dca214e334590218377ddc17d92c6"
+  version "10012026.10.03.1"
+  sha256 "0e8411ab1135c607956360b180d9a220ef2d41541df6ff05eb64de356577c3f6"
 
   url "https://products.n0agi.com/termkick/termkick-#{version}.zip"
   name "termkick"
