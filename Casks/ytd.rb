@@ -1,6 +1,6 @@
 cask "ytd" do
-  version "10092026.08.46.1"
-  sha256 "33ff5425aad2c31fafadad2257977a341181862ccc6e01d1a28d533d9e186b33"
+  version "10162026.08.05.1"
+  sha256 "e1b2c69a780d8baa705f5c746a24e062e3b5855f1507e9365ac4c2ca4eb8cd97"
 
   url "https://products.n0agi.com/ytd/ytd-#{version}.zip"
   name "ytd"
